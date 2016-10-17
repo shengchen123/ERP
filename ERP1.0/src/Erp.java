@@ -3,6 +3,7 @@ import java.io.Serializable;
 /**
  * Git服务器测试实体类
  * 
+ * 
  * @author shengchen
  * 
  */
